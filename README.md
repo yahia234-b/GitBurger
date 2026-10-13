@@ -4,10 +4,10 @@ Bienvenue chez **GitBurger** !
 
 Découvrez notre recette de hamburger maison.
 
-Notre recette
+<h2>Notre recette</h2>
 
--Pain burger
--Steak
--Salade
--Tomate
--Fromage
+- Pain burger
+- Steak
+- Salade
+- Tomate
+- Fromage
